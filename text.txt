@@ -1,0 +1,74 @@
+
+    <!-- Head start -->
+      <div class="head">
+        <div class="main">
+          <div>
+          <div>
+            <img src="./images/UNIVERSITY NEW LOGO.png" alt="" width="120px">
+            <img src="./images/agrade.png" alt="" width="70px">
+          </div>
+          <div>
+            <span>Accredited by NAAC "A" Grade Granted l2-B status by UGC</span>
+          </div>
+        </div>
+
+        <div class="down">
+          <a href="#">Apply Now!</a>
+        </div>
+        </div>
+      </div>
+    <!-- Head end -->
+
+    <!-- nav start -->
+      <div class="nav">
+        <div class="drop-down">
+          <a href="">About Us</a>
+          <a href="">Addmission</a>
+          <a href="">Faculties</a>
+          <a href="">Life @ JU</a>
+          <a href="">Student Zone</a>
+          <a href="">Examanation</a>
+          <a href="">Placement</a>
+          <a href="">Research</a>
+          <a href="">Events</a>
+          <a href="">JUIC</a>
+          <a href="">JUEE-2025</a>
+        </div>
+      </div>
+    <!-- nav end -->
+
+
+    <!-- main start -->
+      <div class="main-back">
+        <img src="./images/Main-Background.jpg" alt="">
+      </div>
+    <!-- main end -->
+
+
+
+    <!--==============================
+     📘 Section 2 start
+    ================================-->
+
+    <div class="section2">
+      <div class="main-2">
+
+        <div class="img-div">
+            <div>
+              <img src="./images/about-us-1.webp" alt="" width="90%">
+            </div>
+
+            <div>
+              <img src="./images/about-us-2.webp" alt="" width="90%">
+            </div>
+        </div>
+
+        <div class="content-div">
+
+        </div>
+      </div>
+    </div>
+
+    <!--==============================
+     📘 Section 2 end
+    ================================-->
